@@ -1,3 +1,4 @@
+This repository contains solutions for the Data Engineer assignment using SQLite, SQL, and Pandas.
 # Data Engineer Assignment
 
 This project analyzes purchase quantities for customers aged 18–35 using a SQLite database.
@@ -41,5 +42,6 @@ python sql_solution.py
 Run Pandas solution:
 
 python pandas_solution.py
+
 
 Output CSV files will be generated using semicolon delimiter.
