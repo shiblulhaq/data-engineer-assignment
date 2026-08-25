@@ -1,4 +1,4 @@
-This repository contains solutions for the Data Engineer assignment using SQLite, SQL, and Pandas.
+This repository contains solutions for the Data Engineer assignment using SQLite, SQL, and Pandas....
 # Data Engineer Assignment
 
 This project analyzes purchase quantities for customers aged 18–35 using a SQLite database.
@@ -6,7 +6,7 @@ This project analyzes purchase quantities for customers aged 18–35 using a SQL
 ## Solutions
 Two solutions were implemented:
 
-1. SQL-based solution using SQLite queries
+1. SQL-based solution using SgQLite queries...
 2. Pandas-based solution using Python data processing
 
 Both solutions produce identical results.
