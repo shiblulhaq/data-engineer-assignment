@@ -1,5 +1,6 @@
 
-# Data Engineer Assignment
+# Data Engineer ASSIGNMENT
+
 
 This project analyzes purchase quantities for customers aged 18–35 using a SQLite database.
 
